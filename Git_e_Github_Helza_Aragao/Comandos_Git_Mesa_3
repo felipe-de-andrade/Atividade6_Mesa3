@@ -13,4 +13,4 @@ git checkout // ir para a nova branch
 git pull // atualizar na sua maquina os arquivos 
 git rm // para apagar algo 
 git cd // ir para pasta indicada 
-git cd .. // volta para a pasta anterior 
+git cd .. // volta para a pasta anterior. 
