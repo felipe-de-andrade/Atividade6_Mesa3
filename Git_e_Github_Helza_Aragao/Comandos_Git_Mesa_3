@@ -1,0 +1,16 @@
+git init // para iniciar um repositorio local 
+git status // para verificar o status do que esta sendo feito 
+git add . // adicionar tudo que tem alteração ou novo 
+git touch // criar algum arquivo 
+git mkdir // criar uma pasta
+git nano // escrever no arquivo pelo terminal 
+git commit -m "" // commite
+git push origin main // para o primeiro push 
+git push // para outros que vem em seguida 
+git clone // clonar repositorios remotos
+git branch // criar uma branch 
+git checkout // ir para a nova branch 
+git pull // atualizar na sua maquina os arquivos 
+git rm // para apagar algo 
+git cd // ir para pasta indicada 
+git cd .. // volta para a pasta anterior. 
